@@ -1,0 +1,7 @@
+"AddonInfo"
+{
+	"addontitle"		"No HUD"
+	"addonversion"		"1.00"
+	"addonauthor"		"cTACTICAL"
+	"addonDescription"	"Removes the entire in-game HUD during matches."
+}

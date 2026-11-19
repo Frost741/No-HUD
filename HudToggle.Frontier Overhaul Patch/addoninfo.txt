@@ -1,0 +1,7 @@
+"AddonInfo"
+{
+	"addontitle"		"HudToggle – Frontier Overhaul Patch"
+	"addonversion"		"1.0"
+	"addonauthor"		"cTACTICAL"
+	"addonDescription"	"Removes the damage direction indicator and ensures compatibility with Frontier Overhaul."
+}

@@ -30,6 +30,12 @@ This patch replaces the `cl_player` file from Frontier Overhaul with a modified 
 
 Also, please note that after installing and launching the patch alongside Frontier Overhaul, removing the patch will not bring back the damage indicator. It will only reappear after reinstalling Frontier Overhaul.
 
+🗑️ **Uninstallation**
+
+When uninstalling, remove both **No HUD** and **HudToggle – Frontier Overhaul Patch**.
+
+After removing them, go to **HUD SETTINGS** and reset the settings to their defaults, as this mod also modifies these settings.
+
 Supported Game Modes
 
 The mod supports the following game modes:

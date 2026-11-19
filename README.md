@@ -36,3 +36,4 @@ The mod supports the following game modes:
 - Capture Point
 - Frontier Defense
 - Titan Brawl
+- Pilot Hunt

@@ -28,6 +28,8 @@ Install this optional mini-patch only if you have **Frontier Overhaul** installe
 
 This patch replaces the `cl_player` file from Frontier Overhaul with a modified version that removes the damage direction indicator.
 
+Also, please note that after installing and launching the patch alongside Frontier Overhaul, removing the patch will not bring back the damage indicator. It will only reappear after reinstalling Frontier Overhaul.
+
 Supported Game Modes
 
 The mod supports the following game modes:

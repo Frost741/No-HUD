@@ -1,0 +1,7 @@
+"AddonInfo"
+{
+	"addontitle"		"HudToggle.AphelionsPatch"
+	"addonversion"		"1.1"
+	"addonauthor"		"cTACTICAL"
+	"addonDescription"	"Removes the damage direction indicator and ensures compatibility with Frontier Overh"
+}
